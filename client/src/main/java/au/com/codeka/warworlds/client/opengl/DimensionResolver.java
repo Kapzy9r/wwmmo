@@ -1,4 +1,4 @@
-package au.com.codeka.warworlds.client.opengl;
+package au.com.Kapzy9r.warworlds.client.opengl;
 
 import android.content.Context;
 import android.util.DisplayMetrics;
