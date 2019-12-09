@@ -1,4 +1,4 @@
-package au.com.codeka.warworlds.common;
+package au.com.Kapzy9r.warworlds.common;
 
 import java.io.PrintWriter;
 import java.io.StringWriter;
